@@ -1,5 +1,5 @@
 import React from 'react';
-import AppTheme from './app-theme';
+import AppTheme from './AppTheme';
 import { Provider as PaperProvider } from 'react-native-paper';
 import { ThemeProvider as EmotionProvider } from '@emotion/react';
 

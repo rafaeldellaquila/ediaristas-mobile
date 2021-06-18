@@ -17,6 +17,7 @@
 - **Expo**
 - **Axios**
 - **Emotion**
+- **Expo Location**
 
 ## Getting started
 
